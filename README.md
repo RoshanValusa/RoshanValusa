@@ -3,7 +3,7 @@ Hope i learn more.
 
 - 📫 How to reach me :
 - Mail :      roshanvalusa@gmail.com
-- Linkedin:   https://www.linkedin.com/in/roshanvalasa/
+- Linkedin:   https://www.linkedin.com/in/roshan-valasa/
 - Instagram : [Roshan_ros1](https://www.instagram.com/roshan_ros1/)
 <!---
 RoshanValasa/RoshanValasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
